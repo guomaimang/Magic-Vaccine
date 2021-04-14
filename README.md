@@ -46,4 +46,13 @@ In addition to the report, please also submit a zipped file with the R scripts u
 
 ## 资料
 
-正在整理
+### 已上载
+
+- 数据源请见datasource 文件夹
+- 外部资料请见 External material 文件夹
+
+### 有趣的网站
+
+- https://systems.jhu.edu/research/public-health/ncov/（霍普金斯大学）
+- https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6（约翰·霍普金斯大学（JHU）系统科学与工程中心（CSSE）的COVID-19仪表盘）
+- https://datadashboard.health.gov.il/COVID-19/general（以色列仪表盘）
