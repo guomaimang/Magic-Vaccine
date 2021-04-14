@@ -1,13 +1,5 @@
 # The spread of COVID-19 with and without vaccine in xxx
 
-<center>
-@ Hanjiaming / HongShu  
-<br>Blog: http://hjm.red
-</center>
-
-
-------
-
 ## Introduction
 
 You can have the choice to DIY your own task, including problem definition, data collection, methodology design, results analysis, etc. The task should be related with data analytics, machine learning, and other contents learned in COMP1433. For option 3, you are required to submit a report covering the following parts:「您可以选择自己动手做自己的任务，包括问题定义，数据收集，方法设计，结果分析等。任务应与数据分析，机器学习以及在COMP1433中学习的其他内容相关。对于选项3，您需要提交一份包含以下部分的报告」
