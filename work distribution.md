@@ -1,7 +1,7 @@
 # Please choose which role you would like to perform, and fill the following table (Choose more than one role is allowed)
 | Name | Role |
 | ---- | ---- |
-| Jiaming HAN |  |
+| Jiaming HAN | Data Pre-Processor |
 | Longling GENG |  |
 | Ming WANG |  |
 | Suizhi MA |  |
