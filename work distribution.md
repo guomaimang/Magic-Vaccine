@@ -5,7 +5,7 @@
 | Longling GENG |  |
 | Ming WANG |  |
 | Suizhi MA |  |
-| Yunfei LIU | Report Writter |
+| Yunfei LIU | Report Writer |
 | Yuxing PEI |  |
   
 (Students are sorted by the first letter of their first name)
@@ -59,7 +59,7 @@
 2. Submit the output .csv files of your program
 3. Submit a summary of all trainings and the conclusion
 
-## Report Writter
+## Report Writer
 **Estimated Deadline: May 10**
 ### WHAT YOU NEED TO DO
 1. Write the report with support documents provided by other group members
