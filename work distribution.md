@@ -14,7 +14,7 @@
 
 **ATTENTION: YOU MAY CHOOSE ANY ROLE OR ROLES, BUT THE TEAM LEADER CAN MAKE ADJUSTMENTS DUE TO THE LACK OF PEOPLE OF OTHER ROLES. THE "WHAT YOU NEED TO DO" AND "WHAT YOU NEED TO SUBMIT" MAY BE MODIFIED WITHOUT NOTIFACTION.**
 
-**Once you choose your role, you should take the resposibility to finish the task as well as you can**
+**Once you choose your role, you should take the responsibility to finish the task as well as you can**
 
 ---
 
