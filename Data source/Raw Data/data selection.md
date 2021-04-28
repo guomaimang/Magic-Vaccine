@@ -2,13 +2,6 @@
 ```
 The following content is the suggested features. You may choose all, some of them or add other features whatever you want and then process them to ready for training. The bold features are highly recommended.
 ```
-## WHAT YOU NEED TO DO
-1. Select countries we want to analyze (recommend including countries in different development level, such as developed countries and developing countries)
-2. Select features we want to analyze
-3. Clean all data, remove blank and create proper DataFrame for further training
-
-## WHAT YOU NEED TO SUBMIT
-1. Submit an estimated outcome example first, which can help the following people
 
 ### Time
 date
