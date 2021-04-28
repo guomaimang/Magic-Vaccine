@@ -18,7 +18,7 @@
 
 ---
 
-# Work Roles (Sorted by the deadline data)
+# Work Roles (Sorted by the deadline date)
 ## Data Pre-Processor
 **Estimated Deadline: May 4**
 ### WHAT YOU NEED TO DO
