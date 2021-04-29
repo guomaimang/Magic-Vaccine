@@ -2,7 +2,7 @@
 | Name | Role |
 | ---- | ---- |
 | Jiaming HAN | Data Pre-Processor |
-| Longling GENG |  |
+| Longling GENG | Report Writer |
 | Ming WANG |  |
 | Suizhi MA |  |
 | Yunfei LIU | Report Writer |
