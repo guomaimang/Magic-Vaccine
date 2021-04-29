@@ -5,7 +5,7 @@
 | Longling GENG | Report Writer |
 | Ming WANG |  |
 | Suizhi MA |  |
-| Yunfei LIU | Report Writer |
+| Yunfei LIU | Report Writer, Consultant |
 | Yuxing PEI |  |
   
 (Students are sorted by the first letter of their first name)
