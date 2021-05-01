@@ -50,6 +50,7 @@
 
 ## Program Tester and Valider
 **Estimated Deadline: May 6**
+
 ### WHAT YOU NEED TO DO
 1. Use algorithm written by Algorithm Programmers to find the relationship between **COVID-19 and ALL given factors** 
 
@@ -60,10 +61,13 @@
 
 ## Report Writer
 **Estimated Deadline: May 10**
+
 ### WHAT YOU NEED TO DO
 1. Write the report with support documents provided by other group members
 2. Make sure that the report is exactly **8** pages (Page limitation)
 
 ### WHAT YOU NEED TO SUBMIT
 1. A report fulfills all content and requirements
+2. ggg
+3. ggg
 
