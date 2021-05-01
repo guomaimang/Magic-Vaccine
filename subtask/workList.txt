@@ -1,0 +1,83 @@
+  
+1. 处理数据（暂定HAJiaming）
+
+2. 建立模型（暂定MASuizhi,PEIYuxing,WANGMing)
+
+WANGMing
+研究疫苗接种率对疫情的影响
+自变量：
+total_vaccinations_per_hundred
+people_vaccinated_per_hundred
+people_fully_vaccinated_per_hundred
+
+因变量：
+new_cases_smoothed_per_million
+new_deaths_smoothed_per_million
+
+1.探究每个自变量对每个因变量的影响，利用单因素线性回归
+2.用comment标出两个最好的线性回归，并做好其他的comments
+3.在5.4提交R文件给GENGLongling和PEIYuxing
+
+注意事项：
+1.将processed_data.csv导入
+2.每次选取中的两列（一列作为自变量，一列作为因变量）
+3.选好之后利用na.rm清除NA，找到有效数据
+4.查看有效数据中iso_code这列，选取一个，即针对一个国家进行线性回归
+
+MASuizhi:
+研究疫苗及其他因素对疫情的影响
+自变量：
+people_fully_vaccinated_per_hundred
+stringency_index
+population_density
+handwashing_facilities
+human_development_index
+gdp_per_capita
+
+因变量：
+new_cases_smoothed_per_million
+
+1.先尝试多因素线性模型（研究以上自变量对因变量的共同影响），并做好comments
+2.再尝试不同的模型（尝试其他模型），并做好comments
+3.在5.4提交R文件给GENGLongling和PEIYuxing
+
+注意事项：
+1.将processed_data.csv导入
+2.将数据中自变量列含有NA的行删除，剩下的作为有效数据
+3.在有效数据中选取一定的国家(iso_code)进行线性回归
+最终分析的数据（例子）：
+iso_code x1:people_fully_vaccinated_per_hundred x2:stringency_index population_density x3:handwashing_facilities x4:human_development_index x5:gdp_per_capita y:new_cases_smoothed_per_million
+America    
+China      
+Korean 
+
+PEIYuxing:
+程序的检验与结果分析
+
+1.收到两个R-script（含comments)来自前两个同学
+2.将结果进行可视化
+3.写一个.doc文件
+内容包括：
+1）疫苗对疫情的影响,是否成正相关等（来自WANGMing）
+2）疫苗及其他因素对疫情的影响，如何影响（来自MASuizhi)
+3) 针对以上现象，我们可以为控制疫情做些什么
+
+3. 写报告（暂定LIUYunfei, GENGLongling)
+
+## 建议的因变量:
+new_cases_smoothed_per_million,
+new_deaths_smoothed_per_million,
+
+## 建议的自变量:
+total_vaccinations_per_hundred,
+people_vaccinated_per_hundred,
+people_fully_vaccinated_per_hundred,
+
+specify using following factors:
+iso_code,continent,location,date
+
+other factors:
+stringency_index,population,
+population_density,median_age,aged_65_older,aged_70_older,gdp_per_capita,extreme_poverty,
+cardiovasc_death_rate,diabetes_prevalence,female_smokers,male_smokers,handwashing_facilities,
+hospital_beds_per_thousand,life_expectancy,human_development_index
