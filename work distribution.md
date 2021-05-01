@@ -1,3 +1,4 @@
+
 # work distibution
 | Name | Role | deadline | process |
 | ---- | ---- | ---- | ---- |
@@ -7,7 +8,7 @@
 | Yuxing PEI | Program Tester and Valider | 5.6 | not finished |
 | Longling GENG | Report Writer | 5.10 | not finished |
 | Yunfei LIU | Report Writer | 5.10 | not finished |
-  
+
 (Students are sorted by deadline)
 	
 ---
