@@ -1,4 +1,4 @@
-# The spread of COVID-19 with and without vaccine in xxx
+# The spread of COVID-19 with and without vaccine
 
 ## Introduction
 
