@@ -68,6 +68,5 @@
 
 ### WHAT YOU NEED TO SUBMIT
 1. A report fulfills all content and requirements
-2. ggg
-3. ggg
+
 
