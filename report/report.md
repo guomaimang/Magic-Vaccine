@@ -29,7 +29,9 @@ However, before a scientific research is conducted, only interest is not enough.
 Last but not least, 
 ## Background
 ## Description
-We have concluded that COVID-19 may be affected with a few factors, and we have classified these factors into groups including time, virus, vaccine, government, population and economic groups. All these groups may have more or less effects on virus spread. Also
+We have concluded that COVID-19 may be affected with a few factors, and we have classified these factors into groups including time, virus, vaccine, government, population and economic groups. All these groups may have more or less effects on virus spread. Also, different models including linear regression are all used to test for the best fit. 
+
+In this project, we define a few independent variables which are related to
 ## Implementation
 ## Data
 ### Data Collection
