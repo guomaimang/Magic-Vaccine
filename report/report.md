@@ -51,3 +51,5 @@ In this project, we define a few independent variables which are related to
 ## Appendix
 ### Work Distribution
 ### References
+
+<img src="https://hongshupic.oss-cn-zhangjiakou.aliyuncs.com/2021/05/06/8855064ea4d36.png" alt="Screenshot 2021-03-25 111814.png" title="Screenshot 2021-03-25 111814.png" />
